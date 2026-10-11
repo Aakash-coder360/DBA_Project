@@ -129,6 +129,12 @@ Open: `http://localhost:8501`
 - Use `.env.example` as template
 
 ---
+## 📸 Screenshots
+
+![Dashboard](screenshot1.png)
+![Replication Health](screenshot2.png)
+![Visual Graphs](screenshot3.png)
+![MongoDB Analytics](screenshot4.png)
 
 ## 📜 License
 
